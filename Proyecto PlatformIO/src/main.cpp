@@ -13,7 +13,7 @@ const int PIN_SW = 22;
 
 // Motores TB6612FNG
 const int PWMA = 25; const int AIN1 = 26; const int AIN2 = 27;
-const int PWMB = 14; const int BIN1 = 12; const int BIN2 = 13;
+const int PWMB = 14; const int BIN1 = 2; const int BIN2 = 13;
 
 // Feedback
 const int BUZZER = 4;
